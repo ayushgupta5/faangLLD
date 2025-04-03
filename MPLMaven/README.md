@@ -1,7 +1,7 @@
 # FAANG LLD - MPL Low-Level Design
 
 ## Overview
-This repository contains the low-level design (LLD) of a fantasy sports application modeled after Dream11. The system is designed to handle user registration, match scheduling, contest creation, team management, and payment processing.
+This repository contains the low-level design (LLD) of a fantasy sports application modeled after MPL. The system is designed to handle user registration, match scheduling, contest creation, team management, and payment processing.
 
 ## Model Structure
 
